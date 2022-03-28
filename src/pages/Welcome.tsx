@@ -5,7 +5,7 @@ import './Welcome.css';
 const Welcome: React.FC = () => {
   return (
     <div className="wlcm">
-        <strong>aaaaaaaa</strong>
+        <strong>This is a test</strong>
        
     </div>
 );
