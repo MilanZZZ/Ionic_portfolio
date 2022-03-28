@@ -1,0 +1,7 @@
+{
+  "name": "Milan_dev",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
